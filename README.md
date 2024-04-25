@@ -1,3 +1,6 @@
+our login and registration page, powered by React.js! We've incorporated a convenient feature called "Forget Password" to enhance user experience and security.
+
+With our sleek and intuitive interface, users can seamlessly navigate between the login and registration sections. The registration form allows new users to create accounts quickly by entering essential details, while the login form grants access to existing users.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
